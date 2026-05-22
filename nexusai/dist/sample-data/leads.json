@@ -1,0 +1,92 @@
+[
+  {
+    "company": "Watts, Robinson and Nguyen",
+    "contact": "Amy Underwood",
+    "deal_size": 90000,
+    "sentiment": "Hot"
+  },
+  {
+    "company": "Morales-Jones",
+    "contact": "Latoya Robbins",
+    "deal_size": 35000,
+    "sentiment": "Cold"
+  },
+  {
+    "company": "Rios Group",
+    "contact": "Maria Thomas",
+    "deal_size": 147000,
+    "sentiment": "Cold"
+  },
+  {
+    "company": "Wright PLC",
+    "contact": "Nicole Patterson",
+    "deal_size": 99000,
+    "sentiment": "Cold"
+  },
+  {
+    "company": "Ross, Robinson and Bright",
+    "contact": "Ann Williams",
+    "deal_size": 99000,
+    "sentiment": "Cold"
+  },
+  {
+    "company": "Hernandez and Sons",
+    "contact": "Jennifer Brown",
+    "deal_size": 146000,
+    "sentiment": "Cold"
+  },
+  {
+    "company": "Carlson-Mcdonald",
+    "contact": "Juan Dunlap",
+    "deal_size": 142000,
+    "sentiment": "Warm"
+  },
+  {
+    "company": "Le, Maldonado and Herrera",
+    "contact": "Martin Rodriguez",
+    "deal_size": 112000,
+    "sentiment": "Warm"
+  },
+  {
+    "company": "Moore-Smith",
+    "contact": "Michelle Stanton",
+    "deal_size": 82000,
+    "sentiment": "Cold"
+  },
+  {
+    "company": "Romero Inc",
+    "contact": "Elizabeth Fowler",
+    "deal_size": 104000,
+    "sentiment": "Cold"
+  },
+  {
+    "company": "Gonzalez, Brooks and Martin",
+    "contact": "Tammy Sellers",
+    "deal_size": 153000,
+    "sentiment": "Cold"
+  },
+  {
+    "company": "Nguyen, Smith and Hickman",
+    "contact": "Sandra Parker",
+    "deal_size": 35000,
+    "sentiment": "Warm"
+  },
+  {
+    "company": "Allen PLC",
+    "contact": "Angelica Tucker",
+    "deal_size": 97000,
+    "sentiment": "Warm"
+  },
+  {
+    "company": "Spence PLC",
+    "contact": "Betty Alvarez",
+    "deal_size": 153000,
+    "sentiment": "Hot"
+  },
+  {
+    "company": "Martin, Rose and Obrien",
+    "contact": "Tanya Campos",
+    "deal_size": 141000,
+    "sentiment": "Warm"
+  }
+]

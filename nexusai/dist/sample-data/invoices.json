@@ -1,0 +1,212 @@
+[
+  {
+    "category": "Software",
+    "amount": 7800,
+    "date": "2026-05-01",
+    "anomaly": false,
+    "vendor": "Lewis-Morales"
+  },
+  {
+    "category": "Software",
+    "amount": 18000,
+    "date": "2026-05-02",
+    "anomaly": true,
+    "vendor": "Martin Inc"
+  },
+  {
+    "category": "Marketing",
+    "amount": 9100,
+    "date": "2026-05-03",
+    "anomaly": true,
+    "vendor": "Baker-Bowers"
+  },
+  {
+    "category": "Sales",
+    "amount": 4600,
+    "date": "2026-05-04",
+    "anomaly": false,
+    "vendor": "Mitchell-Horton"
+  },
+  {
+    "category": "Marketing",
+    "amount": 3900,
+    "date": "2026-05-05",
+    "anomaly": false,
+    "vendor": "Cowan, Peters and Higgins"
+  },
+  {
+    "category": "Legal",
+    "amount": 2200,
+    "date": "2026-05-06",
+    "anomaly": false,
+    "vendor": "Lee and Sons"
+  },
+  {
+    "category": "Sales",
+    "amount": 8800,
+    "date": "2026-05-07",
+    "anomaly": true,
+    "vendor": "Riley PLC"
+  },
+  {
+    "category": "Travel",
+    "amount": 6400,
+    "date": "2026-05-08",
+    "anomaly": false,
+    "vendor": "Adkins Inc"
+  },
+  {
+    "category": "Travel",
+    "amount": 10200,
+    "date": "2026-05-09",
+    "anomaly": true,
+    "vendor": "Silva PLC"
+  },
+  {
+    "category": "Infra",
+    "amount": 21000,
+    "date": "2026-05-10",
+    "anomaly": true,
+    "vendor": "Moore, Yu and Miller"
+  },
+  {
+    "category": "Software",
+    "amount": 7800,
+    "date": "2026-05-11",
+    "anomaly": false,
+    "vendor": "Jones Inc"
+  },
+  {
+    "category": "Infra",
+    "amount": 1500,
+    "date": "2026-05-12",
+    "anomaly": false,
+    "vendor": "Hensley, Powell and David"
+  },
+  {
+    "category": "Software",
+    "amount": 3300,
+    "date": "2026-05-13",
+    "anomaly": false,
+    "vendor": "Sanchez, Wheeler and Harvey"
+  },
+  {
+    "category": "Software",
+    "amount": 3900,
+    "date": "2026-05-14",
+    "anomaly": false,
+    "vendor": "Sandoval-Cunningham"
+  },
+  {
+    "category": "Marketing",
+    "amount": 5000,
+    "date": "2026-05-15",
+    "anomaly": false,
+    "vendor": "Donovan-Harris"
+  },
+  {
+    "category": "Infra",
+    "amount": 11800,
+    "date": "2026-05-16",
+    "anomaly": true,
+    "vendor": "Edwards, Baker and Anderson"
+  },
+  {
+    "category": "Marketing",
+    "amount": 5300,
+    "date": "2026-05-17",
+    "anomaly": false,
+    "vendor": "Evans, Stewart and Walton"
+  },
+  {
+    "category": "Travel",
+    "amount": 2600,
+    "date": "2026-05-18",
+    "anomaly": false,
+    "vendor": "Smith PLC"
+  },
+  {
+    "category": "Legal",
+    "amount": 11200,
+    "date": "2026-05-19",
+    "anomaly": true,
+    "vendor": "Ferrell, Jones and Lewis"
+  },
+  {
+    "category": "Software",
+    "amount": 9600,
+    "date": "2026-05-20",
+    "anomaly": true,
+    "vendor": "Anderson-Bailey"
+  },
+  {
+    "category": "Travel",
+    "amount": 8400,
+    "date": "2026-05-21",
+    "anomaly": true,
+    "vendor": "Suarez LLC"
+  },
+  {
+    "category": "Office",
+    "amount": 8900,
+    "date": "2026-05-22",
+    "anomaly": true,
+    "vendor": "Moore-Bass"
+  },
+  {
+    "category": "Software",
+    "amount": 24500,
+    "date": "2026-05-23",
+    "anomaly": true,
+    "vendor": "Turner, Riggs and Roman"
+  },
+  {
+    "category": "Office",
+    "amount": 7600,
+    "date": "2026-05-24",
+    "anomaly": false,
+    "vendor": "Smith, Montoya and Evans"
+  },
+  {
+    "category": "Travel",
+    "amount": 9000,
+    "date": "2026-05-25",
+    "anomaly": true,
+    "vendor": "Garcia, Humphrey and Baker"
+  },
+  {
+    "category": "Infra",
+    "amount": 11800,
+    "date": "2026-05-26",
+    "anomaly": true,
+    "vendor": "Newton and Sons"
+  },
+  {
+    "category": "Marketing",
+    "amount": 3900,
+    "date": "2026-05-27",
+    "anomaly": false,
+    "vendor": "Campbell-Clark"
+  },
+  {
+    "category": "Infra",
+    "amount": 11900,
+    "date": "2026-05-28",
+    "anomaly": true,
+    "vendor": "Harris-Walters"
+  },
+  {
+    "category": "Infra",
+    "amount": 10100,
+    "date": "2026-05-29",
+    "anomaly": true,
+    "vendor": "Wagner-King"
+  },
+  {
+    "category": "Software",
+    "amount": 2500,
+    "date": "2026-05-30",
+    "anomaly": false,
+    "vendor": "Davis Group"
+  }
+]

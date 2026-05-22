@@ -1,0 +1,222 @@
+[
+  {
+    "name": "Allison Hill",
+    "skills": [
+      "ATS automation",
+      "compliance",
+      "workflow design"
+    ],
+    "experience": 4,
+    "score": 75
+  },
+  {
+    "name": "Noah Rhodes",
+    "skills": [
+      "onboarding",
+      "reporting",
+      "change management",
+      "compliance",
+      "workflow design"
+    ],
+    "experience": 1,
+    "score": 43
+  },
+  {
+    "name": "Angie Henderson",
+    "skills": [
+      "workflow design",
+      "change management",
+      "ATS automation"
+    ],
+    "experience": 9,
+    "score": 36
+  },
+  {
+    "name": "Daniel Wagner",
+    "skills": [
+      "reporting",
+      "HRIS",
+      "workflow design",
+      "SQL",
+      "compliance"
+    ],
+    "experience": 5,
+    "score": 47
+  },
+  {
+    "name": "Cristian Santos",
+    "skills": [
+      "HR analytics",
+      "HRIS",
+      "candidate screening"
+    ],
+    "experience": 5,
+    "score": 86
+  },
+  {
+    "name": "Connie Lawrence",
+    "skills": [
+      "candidate screening",
+      "onboarding",
+      "reporting"
+    ],
+    "experience": 7,
+    "score": 44
+  },
+  {
+    "name": "Abigail Shaffer",
+    "skills": [
+      "change management",
+      "compliance",
+      "ATS automation",
+      "candidate screening"
+    ],
+    "experience": 8,
+    "score": 33
+  },
+  {
+    "name": "Gina Moore",
+    "skills": [
+      "HRIS",
+      "onboarding",
+      "compliance"
+    ],
+    "experience": 10,
+    "score": 69
+  },
+  {
+    "name": "Gabrielle Davis",
+    "skills": [
+      "change management",
+      "workflow design",
+      "onboarding",
+      "ATS automation"
+    ],
+    "experience": 4,
+    "score": 91
+  },
+  {
+    "name": "Ryan Munoz",
+    "skills": [
+      "onboarding",
+      "workflow design",
+      "change management",
+      "reporting"
+    ],
+    "experience": 5,
+    "score": 84
+  },
+  {
+    "name": "Monica Herrera",
+    "skills": [
+      "candidate screening",
+      "HR analytics",
+      "change management",
+      "reporting",
+      "onboarding"
+    ],
+    "experience": 5,
+    "score": 64
+  },
+  {
+    "name": "Jamie Arnold",
+    "skills": [
+      "onboarding",
+      "HR analytics",
+      "workflow design",
+      "change management",
+      "SQL"
+    ],
+    "experience": 7,
+    "score": 79
+  },
+  {
+    "name": "Lisa Hensley",
+    "skills": [
+      "reporting",
+      "workflow design",
+      "candidate screening",
+      "HRIS",
+      "ATS automation"
+    ],
+    "experience": 4,
+    "score": 52
+  },
+  {
+    "name": "Michele Williams",
+    "skills": [
+      "candidate screening",
+      "HRIS",
+      "compliance"
+    ],
+    "experience": 2,
+    "score": 87
+  },
+  {
+    "name": "Dylan Miller",
+    "skills": [
+      "candidate screening",
+      "workflow design",
+      "SQL",
+      "reporting",
+      "change management"
+    ],
+    "experience": 8,
+    "score": 37
+  },
+  {
+    "name": "Brian Ramirez",
+    "skills": [
+      "HR analytics",
+      "workflow design",
+      "compliance",
+      "candidate screening"
+    ],
+    "experience": 10,
+    "score": 44
+  },
+  {
+    "name": "Holly Wood",
+    "skills": [
+      "HRIS",
+      "candidate screening",
+      "workflow design",
+      "onboarding",
+      "compliance"
+    ],
+    "experience": 8,
+    "score": 62
+  },
+  {
+    "name": "Derek Zuniga",
+    "skills": [
+      "onboarding",
+      "HR analytics",
+      "reporting"
+    ],
+    "experience": 7,
+    "score": 40
+  },
+  {
+    "name": "Lisa Jackson",
+    "skills": [
+      "HRIS",
+      "change management",
+      "SQL"
+    ],
+    "experience": 9,
+    "score": 73
+  },
+  {
+    "name": "Carla Gray",
+    "skills": [
+      "ATS automation",
+      "onboarding",
+      "compliance",
+      "HRIS",
+      "candidate screening"
+    ],
+    "experience": 6,
+    "score": 51
+  }
+]

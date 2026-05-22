@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+groq
+langchain
+langchain-text-splitters
+python-multipart
+pdfplumber
+faker
+faiss-cpu
+langchain-community
+reportlab
